@@ -26,8 +26,7 @@
 
 ### 📫 Connect with me
 - 🐙 GitHub: [@BeingN00b](https://github.com/BeingN00b)
-- 🐦 Twitter: [@djinfosec](https://twitter.com/) *(grab that if not taken!)*
-- 🌐 Portfolio: [djinfosec.dev](https://djinfosec.dev) *(optional but 🔥)*
+- 🐦 Twitter: [@djinfosec](https://x.com/BeingN00b)
 
 ---
 
